@@ -1,4 +1,4 @@
-# Passwords validation check programm
+# Password validation check program
 
 The password requirement (every line in .txt file) specifies the symbol that must be in the password and how many times it should appear and the password itself.
 
